@@ -10,7 +10,7 @@ class GifSearch extends React.Component {
     };
   }
   
-  handleChange = () => {
+  handleChange = (event) => {
     
   }
    
