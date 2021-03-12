@@ -7,8 +7,10 @@ class GifSearch extends React.Component {
     
     this.state = {
       input = ""
-    }
+    };
   }
+  
+  
   
   render() {
     return(
