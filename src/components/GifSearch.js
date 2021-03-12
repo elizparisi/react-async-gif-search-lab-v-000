@@ -12,7 +12,7 @@ class GifSearch extends React.Component {
   
   handleChange = (event) => {
     this.setState ({
-      
+      input = event.target.value
     });
   }
    
