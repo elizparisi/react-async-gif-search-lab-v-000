@@ -7,6 +7,8 @@ class GifList extends React.Component {
     return(
       <ul>
         <li>img src={this.props.gifs[0]}</li>
+        <li>img src={this.props.gifs[1]}</li>
+        <li>img src={this.props.gifs[2]}</li>
       </ul>
       )
   }
