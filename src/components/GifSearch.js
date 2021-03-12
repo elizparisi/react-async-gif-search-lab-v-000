@@ -11,7 +11,9 @@ class GifSearch extends React.Component {
   }
   
   handleChange = (event) => {
-    
+    this.setState = {
+      
+    }
   }
    
   render() {
